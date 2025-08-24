@@ -1,0 +1,9 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "echo 'No linting configured'",
+    "test": "echo 'No tests configured'"
+  }
+}
