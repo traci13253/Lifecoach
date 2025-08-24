@@ -1,0 +1,13 @@
+[project]
+name = "lifecoach-backend"
+version = "0.1.0"
+description = "FastAPI backend"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic",
+]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
